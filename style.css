@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+    width: 1024px;
+    height: 700px;
+    margin: auto;
+}
+/* Menu-Header */
+.div-header{
+    background-color: #34495E;
+    height: 250px;
+    position: relative;
+    
+}
+.div-menu{
+    text-align: center;
+}
+.div-menu li {
+    display: inline-block;
+    margin-top: 50px;
+}
+.div-menu li a{
+    display: inline-block;
+    background: #E67E22;
+    padding: 10px;
+    margin-right: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.piller-1{
+    width: 5px;
+    height: 19px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 88px;
+    left:352px;
+}
+.piller-2{
+    width: 5px;
+    height: 19px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 88px;
+    left:447px;
+}
+.piller-3{
+    width: 5px;
+    height: 19px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 88px;
+    left:536px;
+}
+.piller-4{
+    width: 5px;
+    height: 19px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 88px;
+    left:630px;
+}
+
+.icon-1{
+    color: #E67E22;
+    position: absolute;
+    top: 116px;
+    left: 349px;
+    font-size: 10px;
+}
+.icon-2{
+    color: #E67E22;
+    position: absolute;
+    top: 116px;
+    left: 445px;
+    font-size: 10px;
+}
+.icon-3{
+    color: #E67E22;
+    position: absolute;
+    top: 116px;
+    left: 534px;
+    font-size: 10px;
+}
+.icon-4{
+    color: #E67E22;
+    position: absolute;
+    top: 116px;
+    left: 628px;
+    font-size: 10px;
+}
+/* container-circle */
+.div-container{
+    background-color: #9B59B6;
+    height: 282px;
+    position: relative;
+}
+.circle-1{
+    background: #34495E;
+    border: 5px dotted #E67E22;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 147px;
+    left: 211px;
+    
+}
+.circle-2{
+    background: #34495E;
+    border: 5px dotted #E67E22;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 38px;
+    left: 320px;
+}
+.circle-3{
+    background: #34495E;
+    border: 5px solid #E67E22;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    position: absolute;
+    top: 126px;
+    left: 444px;
+}
+
+.circle-4{
+    background: #34495E;
+    border: 5px dotted #E67E22;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 38px;
+    Right: 320px;
+}
+.circle-5{
+    background: #34495E;
+    border: 5px dotted #E67E22;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 147px;
+    Right: 211px;
+}
+/* footer */
+.div-footer{
+    background: #2C3E50;
+    height: 73px;
+    text-align: center;
+    color: #ffffff;
+}
+.div-footer p{
+    padding-top: 20px;
+}
+/* The end */
